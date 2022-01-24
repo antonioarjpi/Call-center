@@ -2,9 +2,7 @@ package com.devsimple.client;
 
 import com.devsimple.client.facade.CallCenter;
 import com.devsimple.client.model.Card;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
 public class ClientApplication {
 	public static void main(String[] args) {
 
